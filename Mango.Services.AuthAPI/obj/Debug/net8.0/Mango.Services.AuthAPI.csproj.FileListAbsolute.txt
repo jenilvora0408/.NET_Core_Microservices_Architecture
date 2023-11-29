@@ -138,3 +138,4 @@ D:\My Projects\Microservices with .NET Core\Mango\Mango.Services.AuthAPI\obj\Deb
 D:\My Projects\Microservices with .NET Core\Mango\Mango.Services.AuthAPI\obj\Debug\net8.0\Mango.Services.AuthAPI.genruntimeconfig.cache
 D:\My Projects\Microservices with .NET Core\Mango\Mango.Services.AuthAPI\obj\Debug\net8.0\ref\Mango.Services.AuthAPI.dll
 D:\My Projects\Microservices with .NET Core\Mango\Mango.Services.AuthAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\My Projects\Microservices with .NET Core\Mango\Mango.Services.AuthAPI\obj\Debug\net8.0\Mango.Services.AuthAPI.sourcelink.json

@@ -1,6 +1,6 @@
 ﻿namespace Mango.Services.AuthAPI.Models.Dto
 {
-    public class UserDTO
+    public class UserDto
     {
         public string ID { get; set; }
 
