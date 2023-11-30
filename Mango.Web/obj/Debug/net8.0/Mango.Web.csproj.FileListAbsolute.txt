@@ -31,3 +31,4 @@ D:\My Projects\Microservices with .NET Core\Mango\Mango.Web\obj\Debug\net8.0\ref
 D:\My Projects\Microservices with .NET Core\Mango\Mango.Web\obj\Debug\net8.0\Mango.Web.pdb
 D:\My Projects\Microservices with .NET Core\Mango\Mango.Web\obj\Debug\net8.0\Mango.Web.genruntimeconfig.cache
 D:\My Projects\Microservices with .NET Core\Mango\Mango.Web\obj\Debug\net8.0\ref\Mango.Web.dll
+D:\My Projects\Microservices with .NET Core\Mango\Mango.Web\obj\Debug\net8.0\Mango.Web.sourcelink.json
