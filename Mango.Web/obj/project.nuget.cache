@@ -1,10 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "G2PxJ7OZoN6Ns5DYRUQTVmlblrBd24XUAJold8SmPF3AWM+eJPxwg2wzVW/vZGJh/IS5qVWt8qFVtH0WqKq3qA==",
+  "dgSpecHash": "jhaqmHcW3EYu9icCqcC/3Yq1Bt2lgvZNmhGE0XsDaDqR7sEI+DgR/4ZGBarobMyyY1PMZEgOiR/LViVH7HhfXw==",
   "success": true,
   "projectFilePath": "D:\\My Projects\\Microservices with .NET Core\\Mango\\Mango.Web\\Mango.Web.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\tatva\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\tatva\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.0.3\\microsoft.identitymodel.abstractions.7.0.3.nupkg.sha512",
+    "C:\\Users\\tatva\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.0.3\\microsoft.identitymodel.jsonwebtokens.7.0.3.nupkg.sha512",
+    "C:\\Users\\tatva\\.nuget\\packages\\microsoft.identitymodel.logging\\7.0.3\\microsoft.identitymodel.logging.7.0.3.nupkg.sha512",
+    "C:\\Users\\tatva\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.0.3\\microsoft.identitymodel.tokens.7.0.3.nupkg.sha512",
+    "C:\\Users\\tatva\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\tatva\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.0.3\\system.identitymodel.tokens.jwt.7.0.3.nupkg.sha512"
   ],
   "logs": []
 }

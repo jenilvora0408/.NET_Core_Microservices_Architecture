@@ -95,7 +95,7 @@ namespace Mango.Services.AuthAPI.Service
                         PhoneNumber = userToReturn.PhoneNumber
                     };
 
-                    return "Registration Successful!";
+                    return "";
                 }
                 else
                 {

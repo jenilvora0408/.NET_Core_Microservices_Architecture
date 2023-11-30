@@ -32,3 +32,8 @@ D:\My Projects\Microservices with .NET Core\Mango\Mango.Web\obj\Debug\net8.0\Man
 D:\My Projects\Microservices with .NET Core\Mango\Mango.Web\obj\Debug\net8.0\Mango.Web.genruntimeconfig.cache
 D:\My Projects\Microservices with .NET Core\Mango\Mango.Web\obj\Debug\net8.0\ref\Mango.Web.dll
 D:\My Projects\Microservices with .NET Core\Mango\Mango.Web\obj\Debug\net8.0\Mango.Web.sourcelink.json
+D:\My Projects\Microservices with .NET Core\Mango\Mango.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\My Projects\Microservices with .NET Core\Mango\Mango.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\My Projects\Microservices with .NET Core\Mango\Mango.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\My Projects\Microservices with .NET Core\Mango\Mango.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\My Projects\Microservices with .NET Core\Mango\Mango.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
