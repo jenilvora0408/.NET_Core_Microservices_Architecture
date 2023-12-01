@@ -18,6 +18,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\My Projects\Microservices with .NET Core\Mango\Mango.Web
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/My Projects/Microservices with .NET Core/Mango/Mango.Web/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/My Projects/Microservices with .NET Core/Mango/Mango.Web/Views/Auth/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/My Projects/Microservices with .NET Core/Mango/Mango.Web/Views/Auth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/My Projects/Microservices with .NET Core/Mango/Mango.Web/Views/Coupon/CouponCreate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cG9uXENvdXBvbkNyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
