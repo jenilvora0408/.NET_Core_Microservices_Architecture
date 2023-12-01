@@ -3,6 +3,8 @@ using Mango.Services.AuthAPI.Models;
 using Mango.Services.AuthAPI.Models.Dto;
 using Mango.Services.AuthAPI.Service.IService;
 using Microsoft.AspNetCore.Identity;
+using Newtonsoft.Json;
+using System.Security.Claims;
 
 namespace Mango.Services.AuthAPI.Service
 {
@@ -50,7 +52,8 @@ namespace Mango.Services.AuthAPI.Service
             }
 
             //If user was found, Generate JWT Token
-            var token = _jwtTokenGenerator.GenerateToken(user);
+            var roles = await _userManager.GetRolesAsync(user);
+            var token = _jwtTokenGenerator.GenerateToken(user, roles);
 
             UserDto userDto = new()
             {
