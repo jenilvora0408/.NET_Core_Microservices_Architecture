@@ -22,7 +22,7 @@ namespace Mango.Services.ProductAPI.Data
                 Name = "Samosa",
                 Price = 15,
                 Description = " Quisque vel lacus ac magna, vehicula sagittis ut non lacus.<br/> Vestibulum arcu turpis, maximus malesuada neque. Phasellus commodo cursus pretium.",
-                ImageUrl = "https://placehold.co/603x403",
+                ImageUrl = "https://paattiskitchen.com/wp-content/uploads/2023/03/kmc_20230226_232129.jpg",
                 CategoryName = "Appetizer"
             });
 
@@ -32,7 +32,7 @@ namespace Mango.Services.ProductAPI.Data
                 Name = "Paneer Tikka",
                 Price = 13.99,
                 Description = " Quisque vel lacus ac magna, vehicula sagittis ut non lacus.<br/> Vestibulum arcu turpis, maximus malesuada neque. Phasellus commodo cursus pretium.",
-                ImageUrl = "https://placehold.co/602x402",
+                ImageUrl = "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Neha_Mathur/Achari_Paneer_Tikka_Recipe_Party_Food_400.jpg",
                 CategoryName = "Appetizer"
             });
 
@@ -42,7 +42,7 @@ namespace Mango.Services.ProductAPI.Data
                 Name = "Sweet Pie",
                 Price = 10.99,
                 Description = " Quisque vel lacus ac magna, vehicula sagittis ut non lacus.<br/> Vestibulum arcu turpis, maximus malesuada neque. Phasellus commodo cursus pretium.",
-                ImageUrl = "https://placehold.co/601x401",
+                ImageUrl = "https://www.wellplated.com/wp-content/uploads/2019/11/Sweet-Potato-Pie-recipe-condensed-milk.jpg",
                 CategoryName = "Dessert"
             });
 
@@ -52,7 +52,7 @@ namespace Mango.Services.ProductAPI.Data
                 Name = "Pav Bhaji",
                 Price = 15,
                 Description = " Quisque vel lacus ac magna, vehicula sagittis ut non lacus.<br/> Vestibulum arcu turpis, maximus malesuada neque. Phasellus commodo cursus pretium.",
-                ImageUrl = "https://placehold.co/600x400",
+                ImageUrl = "https://www.flavorsofmumbai.com/wp-content/uploads/2011/09/Mumbai-Pav-Bhaji-1-4.jpg",
                 CategoryName = "Entree"
             });
         }
