@@ -37,3 +37,4 @@ D:\My Projects\Microservices with .NET Core\Mango\Mango.Web\bin\Debug\net8.0\Mic
 D:\My Projects\Microservices with .NET Core\Mango\Mango.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
 D:\My Projects\Microservices with .NET Core\Mango\Mango.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 D:\My Projects\Microservices with .NET Core\Mango\Mango.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\My Projects\Microservices with .NET Core\Mango\Mango.Web\bin\Debug\net8.0\IdentityModel.dll
