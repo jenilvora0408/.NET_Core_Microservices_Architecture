@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mango.Services.ShoppingCartAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0214b43e7372d3dc9a51a99c8855d989479bd395")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b39fc5e3fc5730980a365b481ced43663658ec6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mango.Services.ShoppingCartAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mango.Services.ShoppingCartAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
