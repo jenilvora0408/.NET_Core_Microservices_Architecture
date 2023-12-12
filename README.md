@@ -1,6 +1,9 @@
 # Online Food Ordering System
 
 Welcome to the Microservices-based Food Ordering System, a .NET Core 8 project designed to facilitate the sale of food products. Admins can effortlessly add and manage food items, while customers can browse and purchase them. 
+
+![Home Page](./project_preview/home_page.png)
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
